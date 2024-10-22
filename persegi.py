@@ -1,3 +1,8 @@
+#dibuat oleh :kiano devaro ridho
+#tanggal pengerjaan : 10 oktober 2024
+#program menghitung rumus persegi
+
+
 print("="*40)
 print("PESEGI")
 print("="*40)

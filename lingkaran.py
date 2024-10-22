@@ -1,6 +1,6 @@
 # dibuat oleh : kiano devaro ridho
 # tanggal pengerjaan : 10 oktober 2024
-# program menghitung lingkaran
+# program menghitung Rumus lingkaran
 
 print("="*40)
 print("LINGKARAN")
